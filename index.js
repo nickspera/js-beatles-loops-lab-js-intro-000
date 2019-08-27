@@ -8,3 +8,11 @@ function theBeatlesPlay(musicians, instruments) {
 
   return arr
 }
+
+function johnLennonFacts() {
+      const facts = [];
+
+      while (n > 0) {
+        console.log(facts, ${!!!})
+      }
+}
